@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayushhh321
 - 👀 I’m interested in stock market more than 0 and 1
-- 🌱 I’m currently learning HELLO WORLD
+- 🌱 I’m currently learning development.
 - 💞️ I’m looking to collaborate on projects regarding stock market.
 - 📫 How to reach me call_wp @7324829593
 
