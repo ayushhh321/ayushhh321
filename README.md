@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m @ayushhh321<br>I’m interested in stock market more than 0 and 1<br>I’m currently learning development.<br>I’m looking to collaborate on projects regarding stock market.<br>How to reach me call_wp @7324829593<br>Must check the cpp_insertion repo :)
+Hi, I’m @ayushhh321<br>I’m interested in stock market more than 0 and 1<br>I’m currently learning development.<br>I’m looking to collaborate on projects regarding stock market.<br>How to reach me call_wp @7324829593<br>
 
 
 ## 🌐 Socials:
