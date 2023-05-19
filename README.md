@@ -1,4 +1,4 @@
-![logo](https://github.com/Aditya-Mohite/Aditya-Mohite/blob/main/GitHub%20Banner.png)
+![logo](https://github.com/ayushhh321/ayushhh321/blob/main/1683982066835.jpeg)
 
 # 💫 About Me:
 Hi, I’m @ayushhh321<br>I’m interested in stock market more than 0 and 1<br>I’m currently learning development.<br>I’m looking to collaborate on projects regarding stock market.<br>How to reach me call_wp @7324829593<br>
