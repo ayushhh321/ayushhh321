@@ -15,8 +15,6 @@ Hi, I’m @ayushhh321<br>I’m interested in stock market more than 0 and 1<br>I
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayushhh321&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- ## 🐦 L
-
 
 
 [![](https:
