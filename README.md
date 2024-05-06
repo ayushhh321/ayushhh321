@@ -23,7 +23,7 @@ Hi, I’m @ayushhh321<br>I’m interested in stock market more than 0 and 1<br>I
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ayushhh321&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
-<!-- ### 😂 Random Dev Meme
+<!-- ### 😂 Random Dev M
 <img src="https://rm.up.railway.app/" wi.  dth="512px"/> -->
 
 ---
