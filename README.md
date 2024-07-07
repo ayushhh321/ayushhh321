@@ -17,9 +17,6 @@ Hi, I’m @ayushhh321<br>I’m interested in stock market more than 0 and 1<br>I
 
 
 
-
-
-
 [![](https:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
