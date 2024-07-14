@@ -30,5 +30,9 @@ Hi, I’m @ayushhh321<br>I’m interested in stock market more than 0 and 1<br>I
 
 <!-- Proudly created by AYUSH GUPTA -->
 
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/ayushhh321/ayushhh321/output/snake.svg" alt="Snake animation" />
+
+###
 
