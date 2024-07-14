@@ -5,10 +5,19 @@
 
 # 💫 How to reach me?                                                  
 You can text me at +91 7324829593 or 
-Mail at - ayushguptab6@gmail.com                                                                                                                                                                                                                                                                                                                                  
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ayushgupta.73/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-gupta-33169b228/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@hypo_sucks) 
-[![Trading view](https://img.shields.io/badge/Trading%20view-Trade%20-red)](https://in.tradingview.com/u/ayush56039/)
+Mail at - ayushguptab6@gmail.com 
+
+# My Socials:
+<p align="left">
+<a href="https://www.instagram.com/ayushgupta.73/">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram Profile"/>
+</a>
+<a href="https://www.linkedin.com/in/ayush-gupta-33169b228/">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin Profile"/>
+</a>
+<a href="https://twitter.com/@hypo_sucks">
+    <img width="48" height="48" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="twitter Profile"/>
+</a></p>
 
 # DevOps Stack 
 
@@ -51,10 +60,5 @@ Mail at - ayushguptab6@gmail.com
 
 <!-- Proudly created by AYUSH GUPTA -->
 
-###
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/ayushhh321/ayushhh321/output/snake.svg" alt="Snake animation" />
-
-###
 
