@@ -1,12 +1,11 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Nasiullha Chaudhari a.k.a <a href="https://www.youtube.com/@cloudchamp/">CloudChamp</a></font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/nasiullha-chaudhari/" target="_blank" rel="noreferrer">Nasi</a> is a passionate DevOps Engineer from India, working on Cloud and DevOps for 3+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
+<h1 align="center"><font face="Arial">Hi 👋, I'm Ayush Gupta</font></h1>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/ayushhh321/" target="_blank" rel="noreferrer">Ayush</a> is a passionate DevOps Enthusiast from India, working on Cloud and DevOps for 1.5+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
 
 
-
-
-# 💫 About Me:                                                    
-Hi, I’m @ayushhh321<br>I’m interested in stock market more than 0 and 1<br>I’m currently learning development.<br>I’m looking to collaborate on projects regarding stock market.<br>How to reach me call_wp @7324829593<br>                                                                                                                                                                                                                                                                                                                                    
+# 💫 How to reach me?                                                  
+You can text me at +91 7324829593
+Mail at - ayushguptab6@gmail.com                                                                                                                                                                                                                                                                                                                                  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ayushgupta.73/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-gupta-33169b228/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@hypo_sucks) 
 [![Trading view](https://img.shields.io/badge/Trading%20view-Trade%20-red)](https://in.tradingview.com/u/ayush56039/)
