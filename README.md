@@ -1,4 +1,4 @@
-                                                                                                  
+                                                                                                                                                                                        
 <h1 align="center"><font face="Arial">Hi 👋, I'm Ayush Gupta</font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/ayushhh321/" target="_blank" rel="noreferrer">Ayush</a> is a passionate DevOps Enthusiast from India, working on Cloud and DevOps for 1.5+ years(As intern and learner) now. Feel free to reach out for any Freelance Projects or Full time Opportunities </font></h3>                           
                  
