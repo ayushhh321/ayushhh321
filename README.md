@@ -16,7 +16,7 @@ Mail at - ayushguptab6@gmail.com
 </a>
 <a href="https://twitter.com/@hypo_sucks">
     <img width="48" height="48" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="twitter Profile"/>
-</a></p>
+</a></p>.   
 
 # DevOps Stack 
 
