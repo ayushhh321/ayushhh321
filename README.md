@@ -4,7 +4,7 @@
 
 # 💫 How to reach me?                                                             
 You can text me at +91 7324829593 or            
-Mail at - ayushguptab6@gmail.com 
+Mail at - ayushguptab6@gmail.com      
 
 # My Socials:
 <p align="left">
